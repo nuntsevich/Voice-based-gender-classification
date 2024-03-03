@@ -1,4 +1,4 @@
-# Voice-based-gender-classification.ResNet34
+# Voice based gender classification using ResNet34
 Audio classification model. PyTorch.\
 accuracy - 98%\
 \
